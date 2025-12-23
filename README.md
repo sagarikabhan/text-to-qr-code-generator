@@ -34,4 +34,3 @@ Built using JavaScript as a beginner-friendly project.
 - Download QR code as an image
 - Customize QR code color and size
 - Error handling for empty input
-- 
